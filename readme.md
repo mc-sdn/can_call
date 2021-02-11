@@ -104,7 +104,7 @@ Clang has also a builtin AST-dump mode; below, the `some_file.c` converted into 
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
 <style>
-<!--
+
  /* Font Definitions */
  @font-face
 	{font-family:"Cambria Math";
@@ -128,7 +128,7 @@ Clang has also a builtin AST-dump mode; below, the `some_file.c` converted into 
 	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
 div.WordSection1
 	{page:WordSection1;}
--->
+
 </style>
 
 </head>
