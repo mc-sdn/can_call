@@ -95,10 +95,7 @@ Clang converts the C-files into an abstract syntax tree (AST) and manipulates th
 Clang has also a builtin AST-dump mode; below, the `some_file.c` converted into an AST.
 
 
-<iframe>
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-</iframe>
+[![HitCount](https://drive.google.com/file/d/1fhlK1r02Tlpo5t1QJQEi5B1O90GK8Hxp/view?usp=sharing)](http://hits.dwyl.com/mc-sdn/can_call)
 
 
 
