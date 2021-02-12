@@ -1,14 +1,23 @@
 
 # `can_call`
 
-[![HitCount](http://hits.dwyl.com/mc-sdn/can_call.svg)](http://hits.dwyl.com/mc-sdn/can_call)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmc-sdn%2Fcan_call&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits (today / total)&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub all releases](https://img.shields.io/github/downloads/mc-sdn/can_call/total)
+[![GitHub forks](https://img.shields.io/github/forks/mc-sdn/can_call)](https://github.com/mc-sdn/can_call/network)
+[![GitHub stars](https://img.shields.io/github/stars/mc-sdn/can_call?color=9cf)](https://github.com/mc-sdn/can_call/stargazers)
+<img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+
+
+<img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings-yellowgreen.svg" alt="keywords">
+
 
 
 
 ## About the `can_call`
 
 `can_call` is a toy script to check if there exists a path between two vertices in the execution path of functions that a C program goes through.
-`can_call` parses and analyses C code in Python with Clang which enables such usage through `libclang` (with Python bindings).
+`can_call` parses and analyses C code in Python with Clang which enables such usage through `libclang` (with [Python bindings](https://github.com/llvm-mirror/clang/tree/master/bindings/python)).
 
 
 ## Requirements
