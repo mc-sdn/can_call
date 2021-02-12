@@ -112,7 +112,7 @@ Clang has also a builtin AST-dump mode; below, the `some_file.c` converted into 
         <td>
 
 
-<html>
+
 
 
 
@@ -721,7 +721,7 @@ font-family:Menlo;color:#2FB41D'>'void ()'</span></p>
 
 </body>
 
-</html>
+
 
 
 
