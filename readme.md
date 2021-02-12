@@ -91,7 +91,8 @@ $ python3 can_call.py some_file.c baz baz
 True
 ```
 
-Clang converts the C-files into an abstract syntax tree (AST) and manipulates the AST. 
+Clang converts the C-files into an abstract syntax tree (AST) and manipulates the AST by considering nodes (or certain [properties of nodes](https://coggle.it/diagram/VSk7_32dyC9M7Wtk/t/python-clang)
+).
 Clang has also a builtin AST-dump mode; below, the `some_file.c` converted into an AST.
 
 ![Alt text here](AST_example.svg)
