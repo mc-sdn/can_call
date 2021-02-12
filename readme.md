@@ -1,7 +1,7 @@
 
 # `can_call`
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmc-sdn%2Fcan_call&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits (today/total)&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmc-sdn%2Fcan_call&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub all releases](https://img.shields.io/github/downloads/mc-sdn/can_call/total)
 [![GitHub forks](https://img.shields.io/github/forks/mc-sdn/can_call)](https://github.com/mc-sdn/can_call/network)
 [![GitHub stars](https://img.shields.io/github/stars/mc-sdn/can_call?color=9cf)](https://github.com/mc-sdn/can_call/stargazers)
