@@ -110,34 +110,25 @@ Clang has a builtin AST-dump mode; below, the `some_file.c` converted into an AS
 
 
 ## References
-* `libclang`
+`libclang`
 
-<a href="https://eli.thegreenplace.net/2011/07/03/parsing-c-in-python-with-clang"><button type="button" 
+> *  <a href="https://eli.thegreenplace.net/2011/07/03/parsing-c-in-python-with-clang"><button type="button" 
 style="
-position:relative;
-			  left:35px;
             cursor: pointer;
 ">Eli Bendersky's website
 </button></a>
-<a href="http://llvm.org/devmtg/2010-11/Gregor-libclang.pdf"><button type="button" 
+> *  <a href="http://llvm.org/devmtg/2010-11/Gregor-libclang.pdf"><button type="button" 
 style="
-position:relative;
-			  left:35px;
             cursor: pointer;
 ">libclang: Thinking Beyond the Compiler
 </button></a>
-<a href="http://clang.llvm.org/doxygen/group__CINDEX.html"><button type="button" 
+> *  <a href="http://clang.llvm.org/doxygen/group__CINDEX.html"><button type="button" 
 style="
-position:relative;
-			  left:35px;
             cursor: pointer;
 ">libclang: C Interface to Clang
 </button></a>
-
-<a href="https://github.com/llvm-mirror/clang/blob/master/bindings/python/clang/cindex.py"><button type="button" 
+> *  <a href="https://github.com/llvm-mirror/clang/blob/master/bindings/python/clang/cindex.py"><button type="button" 
 style="
-position:relative;
-			  left:35px;
             cursor: pointer;
 ">clang/bindings/python/clang/cindex.py
 </button></a>
