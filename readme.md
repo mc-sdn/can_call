@@ -40,7 +40,7 @@ Clang converts the C-files into an abstract syntax tree (AST) and manipulates th
 If you are running `can_call` from the terminal, just pass the arguments after the script name as follows:
 
 ```console
-python3 can_call.py <filename> <caller> <callee>
+python3 can_call.py <some_file.c> <caller> <callee>
 ```
 where
 
