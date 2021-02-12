@@ -18,6 +18,8 @@
 
 `can_call` is a toy script to check if there exists a path between two vertices in the execution path of functions that a C program goes through.
 `can_call` parses and analyses C code in Python with Clang which enables such usage through `libclang` (with [Python bindings](https://github.com/llvm-mirror/clang/tree/master/bindings/python)).
+Clang converts the C-files into an abstract syntax tree (AST) and manipulates the AST by considering nodes (or certain [properties of nodes](https://coggle.it/diagram/VSk7_32dyC9M7Wtk/t/python-clang)
+).
 
 
 ## Requirements
@@ -38,7 +40,7 @@
 If you are running `can_call` from the terminal, just pass the arguments after the script name as follows:
 
 ```console
-python3 can_call <filename> <caller> <callee>
+python3 can_call.py <filename> <caller> <callee>
 ```
 where
 
@@ -100,11 +102,45 @@ $ python3 can_call.py some_file.c baz baz
 True
 ```
 
-Clang converts the C-files into an abstract syntax tree (AST) and manipulates the AST by considering nodes (or certain [properties of nodes](https://coggle.it/diagram/VSk7_32dyC9M7Wtk/t/python-clang)
-).
-Clang has also a builtin AST-dump mode; below, the `some_file.c` converted into an AST.
+
+Clang has a builtin AST-dump mode; below, the `some_file.c` converted into an AST.
 
 ![Alt text here](AST_example.svg)
+
+
+
+## References
+* `libclang`
+
+<a href="https://eli.thegreenplace.net/2011/07/03/parsing-c-in-python-with-clang"><button type="button" 
+style="
+position:relative;
+			  left:35px;
+            cursor: pointer;
+">Eli Bendersky's website
+</button></a>
+<a href="http://llvm.org/devmtg/2010-11/Gregor-libclang.pdf"><button type="button" 
+style="
+position:relative;
+			  left:35px;
+            cursor: pointer;
+">libclang: Thinking Beyond the Compiler
+</button></a>
+<a href="http://clang.llvm.org/doxygen/group__CINDEX.html"><button type="button" 
+style="
+position:relative;
+			  left:35px;
+            cursor: pointer;
+">libclang: C Interface to Clang
+</button></a>
+
+<a href="https://github.com/llvm-mirror/clang/blob/master/bindings/python/clang/cindex.py"><button type="button" 
+style="
+position:relative;
+			  left:35px;
+            cursor: pointer;
+">clang/bindings/python/clang/cindex.py
+</button></a>
 
 
 
