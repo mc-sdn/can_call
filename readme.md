@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings-yellowgreen.svg" alt="keywords">
 
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/mc-sdn/can_call/v1.1/total.svg)](https://github.com/mc-sdn/can_call/releases/)
 
 
 ## About the `can_call`
