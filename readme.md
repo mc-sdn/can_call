@@ -1,16 +1,16 @@
 
 # `can_call`
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmc-sdn%2Fcan_call&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mc-sdn/can_call)
-[![GitHub forks](https://img.shields.io/github/forks/mc-sdn/can_call)](https://github.com/mc-sdn/can_call/network)
-[![GitHub stars](https://img.shields.io/github/stars/mc-sdn/can_call?color=9cf)](https://github.com/mc-sdn/can_call/stargazers)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvili-1%2Fcan_call&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/vili-1/can_call)
+[![GitHub forks](https://img.shields.io/github/forks/vili-1/can_call)](https://github.com/vili-1/can_call/network)
+[![GitHub stars](https://img.shields.io/github/stars/vili-1/can_call?color=9cf)](https://github.com/vili-1/can_call/stargazers)
 <img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]()
 
 <img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings-yellowgreen.svg" alt="keywords">
 
-<!---[![Github All Releases](https://img.shields.io/github/downloads/mc-sdn/can_call/total.svg)](https://github.com/mc-sdn/can_call)--->
-<!---[![Github Releases (by Release)](https://img.shields.io/github/downloads/mc-sdn/can_call/v1.1/total.svg)](https://github.com/mc-sdn/can_call/releases/)--->
+[![Github All Releases](https://img.shields.io/github/downloads/vili-1/can_call/total.svg)](https://github.com/vili-1/can_call)
+<!---[![Github Releases (by Release)](https://img.shields.io/github/downloads/vili-1/can_call/v1.1/total.svg)](https://github.com/vili-1/can_call/releases/)--->
 
 
 ## About the `can_call`
