@@ -2,7 +2,7 @@
 # `can_call`
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmc-sdn%2Fcan_call&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]()
-[![Github All Releases](https://img.shields.io/github/downloads/mc-sdn/can_call/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/mc-sdn/can_call/total.svg)](https://github.com/mc-sdn/can_call)
 [![GitHub forks](https://img.shields.io/github/forks/mc-sdn/can_call)](https://github.com/mc-sdn/can_call/network)
 [![GitHub stars](https://img.shields.io/github/stars/mc-sdn/can_call?color=9cf)](https://github.com/mc-sdn/can_call/stargazers)
 <img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
