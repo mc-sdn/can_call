@@ -28,7 +28,7 @@ Clang converts the C-files into an abstract syntax tree (AST) and manipulates th
 
 ----
 
-**Please note**: Unfortunately, the state of documentation for `libclang` and its Python bindings is very lacking. 
+**Please note**: Unfortunately, the state of documentation for `libclang` and its Python bindings is very lacking. Expect to have to look through the libclang API.
 
 ----
 
