@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/mc-sdn/can_call)](https://github.com/mc-sdn/can_call/network)
 [![GitHub stars](https://img.shields.io/github/stars/mc-sdn/can_call?color=9cf)](https://github.com/mc-sdn/can_call/stargazers)
 <img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]()
 
 
 
