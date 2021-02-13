@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
-[![PyPI download total](https://img.shields.io/pypi/dt/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 
 <img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings-yellowgreen.svg" alt="keywords">
