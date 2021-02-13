@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]()
 
-<img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to libclang-yellowgreen.svg" alt="keywords">
+<img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to libclang-black.svg" alt="keywords">
 
 <!---[![Github All Releases](https://img.shields.io/github/downloads/vili-1/can_call/total.svg)](https://github.com/vili-1/can_call)--->
 <!---[![Github Releases (by Release)](https://img.shields.io/github/downloads/vili-1/can_call/v1.1/total.svg)](https://github.com/vili-1/can_call/releases/)--->
