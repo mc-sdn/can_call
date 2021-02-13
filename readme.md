@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvili-1%2Fcan_call&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/vili-1/can_call)
 [![GitHub forks](https://img.shields.io/github/forks/vili-1/can_call)](https://github.com/vili-1/can_call/network)
-[![GitHub stars](https://img.shields.io/github/stars/vili-1/can_call?color=9cf)](https://github.com/vili-1/can_call/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/vili-1/can_call?color=yellowgreen)](https://github.com/vili-1/can_call/stargazers)
 <img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]()
 
