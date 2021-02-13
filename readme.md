@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/vili-1/can_call)](https://github.com/vili-1/can_call/network)
 [![GitHub stars](https://img.shields.io/github/stars/vili-1/can_call?color=yellowgreen)](https://github.com/vili-1/can_call/stargazers)
 <img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/orange?icon=github)]()
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]()
 
 <img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to libclang-cyan.svg" alt="keywords">
 
