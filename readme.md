@@ -17,8 +17,7 @@
 
 `can_call` is a toy script to check if there exists a path between two vertices in the execution path of functions that a C program goes through.
 `can_call` parses and analyses C code in Python with Clang which enables such usage through `libclang` (with [Python bindings](https://github.com/llvm-mirror/clang/tree/master/bindings/python)).
-Clang converts the C-files into an abstract syntax tree (AST) and manipulates the AST by considering nodes (or certain [properties of nodes](https://coggle.it/diagram/VSk7_32dyC9M7Wtk/t/python-clang)
-).
+Clang converts the C-files into an abstract syntax tree (AST) and manipulates the AST by considering nodes (or certain [properties of nodes](https://coggle.it/diagram/VSk7_32dyC9M7Wtk/t/python-clang)).
 
 
 ## Requirements
