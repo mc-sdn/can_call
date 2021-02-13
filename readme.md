@@ -2,7 +2,7 @@
 # `can_call`
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmc-sdn%2Fcan_call&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![GitHub all releases](https://img.shields.io/github/downloads/mc-sdn/can_call/total)
+[![Github All Releases](https://img.shields.io/github/downloads/mc-sdn/can_call/total.svg)]()
 [![GitHub forks](https://img.shields.io/github/forks/mc-sdn/can_call)](https://github.com/mc-sdn/can_call/network)
 [![GitHub stars](https://img.shields.io/github/stars/mc-sdn/can_call?color=9cf)](https://github.com/mc-sdn/can_call/stargazers)
 <img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
@@ -40,11 +40,11 @@ Clang converts the C-files into an abstract syntax tree (AST) and manipulates th
 If you are running `can_call` from the terminal, just pass the arguments after the script name as follows:
 
 ```console
-python3 can_call.py <some_file.c> <caller> <callee>
+python3 can_call.py <filename> <caller> <callee>
 ```
 where
 
-- `<some_file.c>` is a C file
+- `<filename>` is a C file
 - `<caller>` is the name of a function declared in `<some_file.c>`
 - `<callee>` is the name of a function declared in `<some_file.c>`
 
