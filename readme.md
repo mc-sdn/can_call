@@ -136,4 +136,4 @@ style="
 
 
 
-
+[![npm license](https://img.shields.io/npm/l/awesome-badges.svg)](https://www.npmjs.org/package/awesome-badges)
