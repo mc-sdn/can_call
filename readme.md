@@ -11,7 +11,7 @@
 
 
 
-<img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to `libclang`,%`clang.cindex`-cyan.svg" alt="keywords">
+<img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to libclang,%clang.cindex-cyan.svg" alt="keywords">
 
 
 <!---[![Github All Releases](https://img.shields.io/github/downloads/vili-1/can_call/total.svg)](https://github.com/vili-1/can_call)--->
