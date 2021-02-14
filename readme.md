@@ -108,7 +108,7 @@ True
 ```
 
 
-Clang has a built-in AST-dump mode; below, the `some_file.c` converted into an AST.
+Clang has also a built-in AST-dump mode; below, the `some_file.c` converted into an AST.
 ![AST example](AST_example.svg)
 
 
