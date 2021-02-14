@@ -13,17 +13,6 @@
 
 <img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to libclang-cyan.svg" alt="keywords">
 
-<p align="left">
- <a href="#">
-    <img src="help/Badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="help/Badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="help/Badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
 
 <!---[![Github All Releases](https://img.shields.io/github/downloads/vili-1/can_call/total.svg)](https://github.com/vili-1/can_call)--->
 <!---[![Github Releases (by Release)](https://img.shields.io/github/downloads/vili-1/can_call/v1.1/total.svg)](https://github.com/vili-1/can_call/releases/)--->
