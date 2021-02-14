@@ -10,6 +10,8 @@
 
 
 <img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to libclang-cyan.svg" alt="keywords">
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/vili-1/can_call)
+
 
 <!---[![Github All Releases](https://img.shields.io/github/downloads/vili-1/can_call/total.svg)](https://github.com/vili-1/can_call)--->
 <!---[![Github Releases (by Release)](https://img.shields.io/github/downloads/vili-1/can_call/v1.1/total.svg)](https://github.com/vili-1/can_call/releases/)--->
@@ -132,8 +134,3 @@ style="
             cursor: pointer;
 ">clang/bindings/python/clang/cindex.py
 </button></a>
-
-
-
-
-[![npm license](https://img.shields.io/npm/l/awesome-badges.svg)](https://www.npmjs.org/package/awesome-badges)
