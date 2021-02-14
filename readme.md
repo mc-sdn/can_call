@@ -31,7 +31,7 @@ Clang converts the C-files into an abstract syntax tree (AST) and manipulates th
   started](http://clang.llvm.org/get_started.html) guide to find out how to obtain Clang from source. `libclang` is
   built and installed along with the Clang compiler.
   Python bindings are part of the source distribution of Clang (module `clang.cindex`).
-  To instruct python interpreter to find the `clang.cindex` module, either set up $PYTHONPATH or copy it appropriately (or install it inside your IDE).
+  To instruct python interpreter to find the `clang.cindex` module, either set up `$PYTHONPATH` or copy it appropriately (or install it inside your IDE).
 
 ----
 
