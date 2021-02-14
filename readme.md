@@ -6,12 +6,12 @@
 [![GitHub stars](https://img.shields.io/github/stars/vili-1/can_call?color=yellowgreen)](https://github.com/vili-1/can_call/stargazers)
 <img src="https://img.shields.io/badge/made%20with-python-blueviolet.svg" alt="made with python">
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/vili-1/can_call)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/vili-1/can_call)
 
 
 
 <img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to libclang-cyan.svg" alt="keywords">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/vili-1/can_call)
 
 
 <!---[![Github All Releases](https://img.shields.io/github/downloads/vili-1/can_call/total.svg)](https://github.com/vili-1/can_call)--->
