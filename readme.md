@@ -107,7 +107,6 @@ True
 
 
 Clang has a builtin AST-dump mode; below, the `some_file.c` converted into an AST.
-
 ![Alt text here](AST_example.svg)
 
 
