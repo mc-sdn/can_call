@@ -84,7 +84,7 @@ int main() {
 }
 ```
 
-Executing `can_call` to find whether exists a path in the call graph for `some_file.c` from `caller`-function to `callee`-one, given in the table, we get:
+Executing `can_call` to find whether exists a path in the call graph for `some_file.c` from `caller`-function to `callee`, given in the table, we get:
 
 | `caller`    | `callee` | Expected Output   |
 | ----------- | ---------|----------|
