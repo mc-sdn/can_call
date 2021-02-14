@@ -11,7 +11,7 @@
 
 
 
-<img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to libclang-cyan.svg" alt="keywords">
+<img src="https://img.shields.io/badge/keywords-Clang,%20AST,%20Python bindings to `libclang`,%`clang.cindex`-cyan.svg" alt="keywords">
 
 
 <!---[![Github All Releases](https://img.shields.io/github/downloads/vili-1/can_call/total.svg)](https://github.com/vili-1/can_call)--->
@@ -31,7 +31,7 @@ Clang converts the C-files into an abstract syntax tree (AST) and manipulates th
   started](http://clang.llvm.org/get_started.html) guide to find out how to obtain Clang from source. `libclang` is
   built and installed along with the Clang compiler.
   Python bindings are part of the source distribution of Clang (module `clang.cindex`).
-  To instruct python interpreter to find the `clang.cindex` module, either set up `$PYTHONPATH` or copy it appropriately (or install it inside your IDE).
+  To instruct python interpreter to find the `clang.cindex` module, either set up `$PYTHONPATH` or copy the module appropriately (or install it inside your IDE).
 
 ----
 
