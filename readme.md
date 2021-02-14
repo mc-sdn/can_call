@@ -27,7 +27,7 @@ Clang converts the C-files into an abstract syntax tree (AST) and manipulates th
 
 ## Requirements
 
-* LLVM/Clang -- check out the [getting
+* LLVM/Clang &mdash check out the [getting
   started](http://clang.llvm.org/get_started.html) guide to find out how to obtain Clang from source. `libclang` is
   built and installed along with the Clang compiler.
   Python bindings are part of the source distribution of Clang (module `clang.cindex`).
