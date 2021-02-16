@@ -16,24 +16,24 @@ from clang.cindex import Index
 from clang.cindex import TypeKind
 
 
-def parseC(caller):
-    if caller.get_children():
+visited = set() # Set to keep track of visited nodes.
+
+def dfs(caller):
+    if str(caller) not in visited and caller.get_children():
+        visited.add(str(caller))
         # find all function declarations within
         # a translation unit for a source file.
         for child in caller.get_children():
             if child.spelling == sys.argv[3]:
                 sys.exit("True")
-
             # this will traverse the sub-tree from
             # the 'child' node at the root, covering
             # the case of having prototype function
             off(child.spelling)
-            parseC(child) # performs BFS recursively on the graph
-    else:
-        sys.exit("False")
+            dfs(child)
 
 
-def find_callers(node):
+def all_functions(node):
     """ Retrieve list of function declarations in a translation unit
     """
     funcs = []
@@ -44,12 +44,12 @@ def find_callers(node):
 
 
 def off(caller):
-    for i in find_callers(root):
+    for i in all_functions(root):
         if i.spelling == caller:
-            parseC(i)
+            dfs(i)
 
 
-# Load the C source code
+# Entry point: load the C source code
 index = Index.create()
 translation_unit = index.parse(sys.argv[1])
 
@@ -59,9 +59,7 @@ translation_unit = index.parse(sys.argv[1])
 # representing a node in the AST)
 root = translation_unit.cursor
 
-
 '''for i in find_callers(root):
     print(i.spelling)'''
 
 print(off(sys.argv[2]))
-
