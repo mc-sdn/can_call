@@ -18,19 +18,17 @@ from clang.cindex import TypeKind
 
 visited = set() # Set to keep track of visited nodes.
 
-def dfs(caller):
-    if str(caller) not in visited and caller.get_children():
-        visited.add(str(caller))
+def traverseAST(caller):
+    if str(caller.location) not in visited and caller.get_children():
+        visited.add(str(caller.location))
         # find all function declarations within
         # a translation unit for a source file.
         for child in caller.get_children():
             if child.spelling == sys.argv[3]:
-                sys.exit("True")
-            # this will traverse the sub-tree from
-            # the 'child' node at the root, covering
-            # the case of having prototype function
+                sys.exit('True')
             off(child.spelling)
-            dfs(child)
+            traverseAST(child)
+
 
 
 def all_functions(node):
@@ -46,7 +44,8 @@ def all_functions(node):
 def off(caller):
     for i in all_functions(root):
         if i.spelling == caller:
-            dfs(i)
+            traverseAST(i)
+
 
 
 # Entry point: load the C source code
@@ -58,8 +57,5 @@ translation_unit = index.parse(sys.argv[1])
 # translation unit (cursor is a generic object for
 # representing a node in the AST)
 root = translation_unit.cursor
-
-'''for i in find_callers(root):
-    print(i.spelling)'''
 
 print(off(sys.argv[2]))
