@@ -21,8 +21,6 @@ visited = set() # Set to keep track of visited nodes.
 def traverseAST(caller):
     if str(caller.location) not in visited and caller.get_children():
         visited.add(str(caller.location))
-        # find all function declarations within
-        # a translation unit for a source file.
         for child in caller.get_children():
             if child.spelling == sys.argv[3]:
                 sys.exit('True')
